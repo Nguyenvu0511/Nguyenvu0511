@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nguyenvu0511/Nguyenvu0511/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nguyenvu0511/Nguyenvu0511/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Nguyenvu0511/Nguyenvu0511/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -19,5 +19,5 @@ Tôi là sinh viên chuyên ngành Kỹ thuật Điều khiển và Tự động
 ### 📫 How to reach me
 
 *   **Website:** [4gviesky.xyz](https://4gviesky.xyz)
-*   **Email:** [Địa chỉ Email của cậu]
-*   **LinkedIn:** [Link LinkedIn của cậu]
+*   **Email:** [Nhập địa chỉ Email của cậu vào đây, ví dụ: vu@email.com]
+*   **LinkedIn:** [Dán link LinkedIn của cậu vào đây, nếu không có thì xóa dòng này đi]
