@@ -8,15 +8,15 @@
 
 # Hi there, I'm Nguyễn Hoàng Vũ 👋
 
-Tôi là sinh viên chuyên ngành Kỹ thuật Điều khiển và Tự động hóa. Bên cạnh việc học, tôi có niềm đam mê lớn với việc khám phá hệ thống, tùy biến môi trường làm việc và tự tay xây dựng các dự án Web/Software.
+I am a student majoring in Control and Automation Engineering. Besides my studies, I have a strong passion for exploring systems, customizing work environments, and building my own Web/Software projects.
 
 ### 🛠️ What I work on & Tools I use
 
-*   **Hệ điều hành & Tùy biến:** Arch Linux (Hyprland), Debian, Ubuntu. Can thiệp sâu và tinh chỉnh hệ thống Android (Root, Magisk, KSU, MT Manager).
-*   **Phát triển Web & Scripting:** React, Tailwind CSS, Python.
-*   **Sở thích & Mục tiêu khác:** Minecraft (PaperMC) và chinh phục tiếng Nhật (hiện tại N5).
+*   **OS & Customization:** Arch Linux (Hyprland), Debian, Ubuntu. Deep Android system modding and tweaking (Root, Magisk, KSU, MT Manager).
+*   **Web Development & Scripting:** React, Tailwind CSS, Python.
+*   **Other Interests & Goals:** Minecraft (PaperMC) and mastering Japanese (currently at N5 level).
 
 ### 📫 How to reach me
 
 *   **Website:** [4gviesky.xyz](https://4gviesky.xyz)
-*   **Email:** [hoangvu2007qb@gmail.com]
+*   **Email:** [hoangvu2007qb@gmail.com](mailto:hoangvu2007qb@gmail.com)
